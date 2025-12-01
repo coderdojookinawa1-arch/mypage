@@ -24,6 +24,13 @@ header {
     text-align: center;
     border-bottom: 1px solid #ddd;
     margin-bottom: 20px;
+    background-image: url('images/header_bg.png');
+    background-size: cover;
+    background-position: center;
+    color: #fff;
+    padding: 60px 20px;
+    border-radius: 8px;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7);
 }
 
 header h1 {
